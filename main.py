@@ -23,3 +23,5 @@ but2 = Button(window, text='Clear', command=clear)
 but2.place(x=250, y=100)
 
 window.mainloop()
+
+# 23.01.24
